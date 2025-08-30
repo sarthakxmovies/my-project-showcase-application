@@ -1,6 +1,7 @@
 # my-project-showcase-application
 Blog / Project Showcase 🚀
 A responsive blog and project showcase application built with React/Next.js and TailwindCSS.
+
 Features
 
 Homepage: Card-based layout for blogs/projects
@@ -19,6 +20,6 @@ Component-based architecture
 React Router / Next.js Pages
 
 Deployment
-Ready for Vercel/Netlify deployment with optimized builds.
 
+Ready for Vercel/Netlify deployment with optimized builds.
 Live Demo: [https://my-project-showcase-application.vercel.app/] 
