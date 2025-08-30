@@ -1,5 +1,6 @@
 # my-project-showcase-application
 Blog / Project Showcase 🚀
+
 A responsive blog and project showcase application built with React/Next.js and TailwindCSS.
 
 Features
